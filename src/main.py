@@ -4,3 +4,4 @@
 2023-12-12 hotfix
 2023-12-16 refactor parser
 2023-12-19 dockerfile
+2024-02-06 split the fetcher out
