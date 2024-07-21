@@ -3,3 +3,4 @@
 2024-04-05 lint
 2024-04-27 add tests
 2024-07-11 small perf pass
+2024-07-21 readme
