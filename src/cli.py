@@ -4,3 +4,4 @@
 2024-03-31 handle empty response
 2024-05-13 bump deps
 2024-05-26 typeshed
+2024-08-01 pagination fix
