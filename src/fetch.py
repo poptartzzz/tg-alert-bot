@@ -9,3 +9,4 @@
 2024-04-22 typeshed
 2024-05-10 dockerfile
 2024-06-25 wip
+2024-10-21 add retry on 429
