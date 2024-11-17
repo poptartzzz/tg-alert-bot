@@ -5,3 +5,4 @@
 2024-09-10 cache the lookups
 2024-09-28 add tests
 2024-10-02 add cli flag
+2024-11-17 backoff on failure
