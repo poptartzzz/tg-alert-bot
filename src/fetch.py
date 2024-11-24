@@ -11,3 +11,4 @@
 2024-06-25 wip
 2024-10-21 add retry on 429
 2024-11-04 pagination fix
+2024-11-24 add tests
