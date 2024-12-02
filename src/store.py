@@ -7,3 +7,4 @@
 2024-10-22 revert
 2024-11-21 lint
 2024-11-26 readme
+2024-12-02 move config to env
