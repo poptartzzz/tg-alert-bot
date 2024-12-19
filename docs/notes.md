@@ -7,3 +7,4 @@
 2024-09-13 drop unused import
 2024-11-15 wire up queue
 2024-11-23 split the fetcher out
+2024-12-19 bump deps
