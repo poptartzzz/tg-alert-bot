@@ -7,3 +7,4 @@
 2024-10-02 add cli flag
 2024-11-17 backoff on failure
 2024-12-18 reduce noise
+2025-01-06 move config to env
