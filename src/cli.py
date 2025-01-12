@@ -7,3 +7,4 @@
 2024-08-01 pagination fix
 2024-10-22 dockerfile
 2024-11-04 fix timezone bug
+2025-01-12 hotfix
