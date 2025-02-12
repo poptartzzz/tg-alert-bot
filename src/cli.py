@@ -10,3 +10,4 @@
 2025-01-12 hotfix
 2025-01-28 log the raw payload
 2025-02-12 refactor parser
+2025-02-12 backoff on failure
