@@ -9,3 +9,4 @@
 2024-11-09 handle empty response
 2024-11-27 add retry on 429
 2025-02-11 readme
+2025-03-12 dockerfile
