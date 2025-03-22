@@ -11,3 +11,4 @@
 2025-02-11 readme
 2025-03-12 dockerfile
 2025-03-17 add retry on 429
+2025-03-22 cache the lookups
