@@ -11,3 +11,4 @@
 2025-01-27 migration
 2025-02-01 split the fetcher out
 2025-03-12 lint
+2025-03-25 add retry on 429
