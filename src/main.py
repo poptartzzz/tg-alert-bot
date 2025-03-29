@@ -15,3 +15,4 @@
 2025-02-18 add retry on 429
 2025-03-12 lint
 2025-03-16 typeshed
+2025-03-29 bump deps
