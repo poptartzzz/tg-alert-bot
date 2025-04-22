@@ -13,3 +13,4 @@
 2025-03-17 add retry on 429
 2025-03-22 cache the lookups
 2025-04-02 cache the lookups
+2025-04-22 small perf pass
