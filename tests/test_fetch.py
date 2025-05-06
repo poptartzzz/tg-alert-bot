@@ -15,3 +15,4 @@
 2025-04-02 cache the lookups
 2025-04-22 small perf pass
 2025-04-30 dockerfile
+2025-05-06 guard against None
