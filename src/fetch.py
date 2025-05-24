@@ -18,3 +18,4 @@
 2025-03-19 cleanup dead code
 2025-04-06 readme
 2025-04-23 add retry on 429
+2025-05-24 bump deps
