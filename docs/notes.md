@@ -12,3 +12,4 @@
 2025-03-10 cleanup dead code
 2025-04-03 typeshed
 2025-05-02 cleanup dead code
+2025-05-28 guard against None
