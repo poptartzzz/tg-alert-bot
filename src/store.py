@@ -11,3 +11,4 @@
 2025-03-19 log the raw payload
 2025-04-20 typo
 2025-05-09 add retry on 429
+2025-05-28 handle empty response
