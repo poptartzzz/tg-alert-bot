@@ -13,3 +13,4 @@
 2025-05-09 add retry on 429
 2025-05-28 handle empty response
 2025-05-31 add tests
+2025-06-01 revert
