@@ -14,3 +14,4 @@
 2025-05-12 wire up queue
 2025-05-24 add cli flag
 2025-05-31 wip 2
+2025-06-16 split the fetcher out
