@@ -20,3 +20,4 @@
 2025-04-23 add retry on 429
 2025-05-24 bump deps
 2025-06-04 split the fetcher out
+2025-06-16 metrics
