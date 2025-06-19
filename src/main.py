@@ -20,3 +20,4 @@
 2025-05-06 refactor parser
 2025-05-08 docs
 2025-05-21 pagination fix
+2025-06-19 typeshed
