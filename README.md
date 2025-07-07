@@ -9,3 +9,4 @@
 2024-12-18 reduce noise
 2025-01-06 move config to env
 2025-06-30 refactor parser
+2025-07-07 revert
