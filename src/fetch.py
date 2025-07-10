@@ -22,3 +22,4 @@
 2025-06-04 split the fetcher out
 2025-06-16 metrics
 2025-06-16 readme
+2025-07-10 hotfix
