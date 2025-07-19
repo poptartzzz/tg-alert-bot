@@ -18,3 +18,4 @@
 2025-04-30 small perf pass
 2025-07-01 backoff on failure
 2025-07-11 log the raw payload
+2025-07-19 split the fetcher out
