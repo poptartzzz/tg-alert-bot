@@ -21,3 +21,4 @@
 2025-05-08 docs
 2025-05-21 pagination fix
 2025-06-19 typeshed
+2025-07-22 migration
