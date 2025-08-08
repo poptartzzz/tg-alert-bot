@@ -21,3 +21,4 @@
 2025-07-02 fix timezone bug
 2025-07-17 wip
 2025-07-27 small perf pass
+2025-08-08 log the raw payload
