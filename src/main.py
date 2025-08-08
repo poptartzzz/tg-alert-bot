@@ -22,3 +22,4 @@
 2025-05-21 pagination fix
 2025-06-19 typeshed
 2025-07-22 migration
+2025-08-08 bump deps
