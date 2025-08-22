@@ -23,3 +23,4 @@
 2025-06-19 typeshed
 2025-07-22 migration
 2025-08-08 bump deps
+2025-08-22 add cli flag
