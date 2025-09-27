@@ -12,3 +12,4 @@
 2025-07-07 revert
 2025-07-12 move config to env
 2025-07-16 metrics
+2025-09-27 bump deps
