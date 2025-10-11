@@ -19,3 +19,4 @@
 2025-07-01 backoff on failure
 2025-07-11 log the raw payload
 2025-07-19 split the fetcher out
+2025-10-11 log the raw payload
