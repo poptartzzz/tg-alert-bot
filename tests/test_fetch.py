@@ -19,3 +19,4 @@
 2025-06-16 refactor parser
 2025-07-11 readme
 2025-08-30 metrics
+2025-10-13 backoff on failure
