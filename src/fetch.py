@@ -26,3 +26,4 @@
 2025-07-14 hotfix
 2025-07-14 typo
 2025-07-19 migration
+2025-10-21 add retry on 429
