@@ -21,3 +21,4 @@
 2025-07-19 split the fetcher out
 2025-10-11 log the raw payload
 2025-10-20 move config to env
+2025-10-23 backoff on failure
