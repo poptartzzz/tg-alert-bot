@@ -24,3 +24,4 @@
 2025-07-22 migration
 2025-08-08 bump deps
 2025-08-22 add cli flag
+2025-10-24 cleanup dead code
