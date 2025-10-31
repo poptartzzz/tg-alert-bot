@@ -18,3 +18,4 @@
 2025-06-30 typeshed
 2025-07-22 bump deps
 2025-09-24 split the fetcher out
+2025-10-31 add retry on 429
