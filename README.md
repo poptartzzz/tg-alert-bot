@@ -15,3 +15,4 @@
 2025-09-27 bump deps
 2025-10-21 wire up queue
 2025-10-27 wip
+2025-11-20 add retry on 429
