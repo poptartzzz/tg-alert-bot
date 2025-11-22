@@ -20,3 +20,4 @@
 2025-09-24 split the fetcher out
 2025-10-31 add retry on 429
 2025-11-20 fix timezone bug
+2025-11-22 typo
