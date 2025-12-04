@@ -18,3 +18,4 @@
 2025-08-06 migration
 2025-08-23 lint
 2025-10-31 small perf pass
+2025-12-04 revert
