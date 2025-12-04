@@ -20,3 +20,4 @@
 2025-07-11 readme
 2025-08-30 metrics
 2025-10-13 backoff on failure
+2025-12-04 add retry on 429
