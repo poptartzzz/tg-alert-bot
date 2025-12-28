@@ -14,3 +14,4 @@
 2025-05-28 handle empty response
 2025-05-31 add tests
 2025-06-01 revert
+2025-12-28 add cli flag
