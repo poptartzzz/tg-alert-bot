@@ -26,3 +26,4 @@
 2025-08-22 add cli flag
 2025-10-24 cleanup dead code
 2025-11-20 cleanup dead code
+2026-01-01 split the fetcher out
