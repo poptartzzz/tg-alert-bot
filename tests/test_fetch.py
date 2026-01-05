@@ -22,3 +22,4 @@
 2025-10-13 backoff on failure
 2025-12-04 add retry on 429
 2026-01-04 add retry on 429
+2026-01-05 handle empty response
