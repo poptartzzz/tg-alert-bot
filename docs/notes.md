@@ -19,3 +19,4 @@
 2025-08-23 lint
 2025-10-31 small perf pass
 2025-12-04 revert
+2026-01-15 backoff on failure
