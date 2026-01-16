@@ -28,3 +28,4 @@
 2025-11-20 cleanup dead code
 2026-01-01 split the fetcher out
 2026-01-04 lint
+2026-01-16 wire up queue
