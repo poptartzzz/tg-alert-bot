@@ -17,3 +17,4 @@
 2025-12-28 add cli flag
 2026-01-04 reduce noise
 2026-02-08 pagination fix
+2026-02-14 reduce noise
