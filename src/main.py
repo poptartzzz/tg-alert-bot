@@ -30,3 +30,4 @@
 2026-01-04 lint
 2026-01-16 wire up queue
 2026-02-08 add cli flag
+2026-02-16 docs
