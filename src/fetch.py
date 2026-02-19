@@ -29,3 +29,4 @@
 2025-10-21 add retry on 429
 2025-12-28 revert
 2026-01-04 refactor parser
+2026-02-19 log the raw payload
