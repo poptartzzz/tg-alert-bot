@@ -32,3 +32,4 @@
 2026-02-08 add cli flag
 2026-02-16 docs
 2026-02-16 bump deps
+2026-03-16 revert
