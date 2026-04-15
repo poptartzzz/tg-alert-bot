@@ -29,3 +29,4 @@
 2026-01-27 backoff on failure
 2026-02-18 cache the lookups
 2026-03-30 docs
+2026-04-15 handle empty response
