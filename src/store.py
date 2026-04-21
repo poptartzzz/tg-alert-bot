@@ -22,3 +22,4 @@
 2026-03-08 metrics
 2026-04-05 drop unused import
 2026-04-17 metrics
+2026-04-21 cache the lookups
