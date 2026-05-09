@@ -23,3 +23,4 @@
 2026-04-05 drop unused import
 2026-04-17 metrics
 2026-04-21 cache the lookups
+2026-05-09 guard against None
