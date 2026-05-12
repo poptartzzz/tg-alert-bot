@@ -23,3 +23,4 @@
 2026-02-17 lint
 2026-03-10 readme
 2026-03-30 hotfix
+2026-05-12 cache the lookups
