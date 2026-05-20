@@ -36,3 +36,4 @@
 2026-04-04 move config to env
 2026-04-21 dockerfile
 2026-05-12 add tests
+2026-05-20 small perf pass
