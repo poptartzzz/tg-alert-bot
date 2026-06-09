@@ -37,3 +37,4 @@
 2026-04-21 dockerfile
 2026-05-12 add tests
 2026-05-20 small perf pass
+2026-06-09 lint
