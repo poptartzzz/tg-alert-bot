@@ -24,3 +24,4 @@
 2026-04-17 metrics
 2026-04-21 cache the lookups
 2026-05-09 guard against None
+2026-07-12 split the fetcher out
