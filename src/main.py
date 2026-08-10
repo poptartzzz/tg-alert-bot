@@ -40,3 +40,4 @@
 2026-06-09 lint
 2026-08-01 migration
 2026-08-09 refactor parser
+2026-08-10 backoff on failure
