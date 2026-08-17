@@ -27,3 +27,4 @@
 2026-05-11 wire up queue
 2026-05-12 drop unused import
 2026-08-09 add cli flag
+2026-08-17 guard against None
