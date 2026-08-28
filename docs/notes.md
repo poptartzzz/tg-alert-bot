@@ -26,3 +26,4 @@
 2026-05-12 cache the lookups
 2026-08-09 small perf pass
 2026-08-09 reduce noise
+2026-08-28 metrics
