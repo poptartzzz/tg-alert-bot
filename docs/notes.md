@@ -27,3 +27,4 @@
 2026-08-09 small perf pass
 2026-08-09 reduce noise
 2026-08-28 metrics
+2026-08-29 split the fetcher out
