@@ -28,3 +28,4 @@
 2026-08-09 reduce noise
 2026-08-28 metrics
 2026-08-29 split the fetcher out
+2026-09-01 hotfix
