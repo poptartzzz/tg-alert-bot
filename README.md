@@ -18,3 +18,4 @@
 2025-11-20 add retry on 429
 2026-05-06 typo
 2026-08-10 metrics
+2026-09-02 backoff on failure
