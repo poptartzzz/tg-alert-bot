@@ -29,3 +29,4 @@
 2026-08-09 add cli flag
 2026-08-17 guard against None
 2026-09-01 readme
+2026-09-08 small perf pass
