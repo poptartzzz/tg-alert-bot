@@ -41,3 +41,4 @@
 2026-08-01 migration
 2026-08-09 refactor parser
 2026-08-10 backoff on failure
+2026-09-11 small perf pass
