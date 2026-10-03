@@ -34,3 +34,4 @@
 2026-08-20 cleanup dead code
 2026-08-25 readme
 2026-09-04 hotfix
+2026-10-03 typo
