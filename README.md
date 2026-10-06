@@ -19,3 +19,4 @@
 2026-05-06 typo
 2026-08-10 metrics
 2026-09-02 backoff on failure
+2026-10-06 revert
