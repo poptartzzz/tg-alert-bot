@@ -32,3 +32,4 @@
 2026-09-08 small perf pass
 2026-09-14 cleanup dead code
 2026-09-15 revert
+2026-10-13 add retry on 429
