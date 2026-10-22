@@ -34,3 +34,4 @@
 2026-04-20 revert
 2026-06-08 handle empty response
 2026-08-30 refactor parser
+2026-10-22 cleanup dead code
