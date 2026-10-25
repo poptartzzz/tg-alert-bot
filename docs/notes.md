@@ -29,3 +29,4 @@
 2026-08-28 metrics
 2026-08-29 split the fetcher out
 2026-09-01 hotfix
+2026-10-25 typo
