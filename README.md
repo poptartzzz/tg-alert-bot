@@ -20,3 +20,4 @@
 2026-08-10 metrics
 2026-09-02 backoff on failure
 2026-10-06 revert
+2026-10-26 small perf pass
