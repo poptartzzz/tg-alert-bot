@@ -26,3 +26,4 @@
 2026-05-09 guard against None
 2026-07-12 split the fetcher out
 2026-08-20 hotfix
+2026-10-27 refactor parser
