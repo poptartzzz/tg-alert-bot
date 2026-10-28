@@ -27,3 +27,4 @@
 2026-07-12 split the fetcher out
 2026-08-20 hotfix
 2026-10-27 refactor parser
+2026-10-28 readme
