@@ -36,3 +36,4 @@
 2026-08-30 refactor parser
 2026-10-22 cleanup dead code
 2026-10-26 docs
+2026-10-28 add tests
