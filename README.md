@@ -21,3 +21,4 @@
 2026-09-02 backoff on failure
 2026-10-06 revert
 2026-10-26 small perf pass
+2026-10-29 typo
