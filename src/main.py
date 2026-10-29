@@ -44,3 +44,4 @@
 2026-09-11 small perf pass
 2026-09-17 typeshed
 2026-10-14 metrics
+2026-10-29 add tests
