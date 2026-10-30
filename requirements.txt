@@ -29,3 +29,4 @@
 2026-08-02 revert
 2026-08-10 backoff on failure
 2026-10-26 reduce noise
+2026-10-30 pagination fix
