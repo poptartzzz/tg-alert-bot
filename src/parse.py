@@ -29,3 +29,4 @@
 2026-08-25 hotfix
 2026-09-03 log the raw payload
 2026-10-12 add retry on 429
+2026-10-31 pagination fix
